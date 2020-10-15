@@ -1,0 +1,7 @@
+-cp src
+-lib castle
+-lib heaps
+-lib deepnightLibs
+-lib random
+-main Boot
+-dce full
